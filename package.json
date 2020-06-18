@@ -1,0 +1,14 @@
+{
+  "name": "atividade_readlinesync",
+  "version": "1.0.0",
+  "description": "Atividade passada para a Turma 2 da Arbyte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto Camargo",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
